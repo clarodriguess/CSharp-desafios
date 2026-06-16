@@ -1,0 +1,14 @@
+C:\Dev\womakers-c#\CSharp-desafios\desafio01\bin\Debug\net10.0\desafio01.exe
+C:\Dev\womakers-c#\CSharp-desafios\desafio01\bin\Debug\net10.0\desafio01.deps.json
+C:\Dev\womakers-c#\CSharp-desafios\desafio01\bin\Debug\net10.0\desafio01.runtimeconfig.json
+C:\Dev\womakers-c#\CSharp-desafios\desafio01\bin\Debug\net10.0\desafio01.dll
+C:\Dev\womakers-c#\CSharp-desafios\desafio01\bin\Debug\net10.0\desafio01.pdb
+C:\Dev\womakers-c#\CSharp-desafios\desafio01\obj\Debug\net10.0\desafio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\womakers-c#\CSharp-desafios\desafio01\obj\Debug\net10.0\desafio01.AssemblyInfoInputs.cache
+C:\Dev\womakers-c#\CSharp-desafios\desafio01\obj\Debug\net10.0\desafio01.AssemblyInfo.cs
+C:\Dev\womakers-c#\CSharp-desafios\desafio01\obj\Debug\net10.0\desafio01.csproj.CoreCompileInputs.cache
+C:\Dev\womakers-c#\CSharp-desafios\desafio01\obj\Debug\net10.0\desafio01.dll
+C:\Dev\womakers-c#\CSharp-desafios\desafio01\obj\Debug\net10.0\refint\desafio01.dll
+C:\Dev\womakers-c#\CSharp-desafios\desafio01\obj\Debug\net10.0\desafio01.pdb
+C:\Dev\womakers-c#\CSharp-desafios\desafio01\obj\Debug\net10.0\desafio01.genruntimeconfig.cache
+C:\Dev\womakers-c#\CSharp-desafios\desafio01\obj\Debug\net10.0\ref\desafio01.dll
