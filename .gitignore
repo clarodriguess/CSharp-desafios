@@ -1,0 +1,20 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# Visual Studio Code
+.vscode/
+
+# Arquivos de usuário
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
